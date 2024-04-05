@@ -13,7 +13,7 @@ build-job:
 test-count:
   stage: test
   script: 
-    python3 count.py
+    python3 teste.py
 
 deploy:
   stage: deploy
